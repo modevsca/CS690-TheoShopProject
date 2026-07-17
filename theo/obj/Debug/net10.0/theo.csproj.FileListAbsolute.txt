@@ -1,0 +1,15 @@
+/workspaces/CS690-TheoShopProject/theo/bin/Debug/net10.0/theo
+/workspaces/CS690-TheoShopProject/theo/bin/Debug/net10.0/theo.deps.json
+/workspaces/CS690-TheoShopProject/theo/bin/Debug/net10.0/theo.runtimeconfig.json
+/workspaces/CS690-TheoShopProject/theo/bin/Debug/net10.0/theo.dll
+/workspaces/CS690-TheoShopProject/theo/bin/Debug/net10.0/theo.pdb
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.AssemblyInfoInputs.cache
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.AssemblyInfo.cs
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.csproj.CoreCompileInputs.cache
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.sourcelink.json
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.dll
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/refint/theo.dll
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.pdb
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/theo.genruntimeconfig.cache
+/workspaces/CS690-TheoShopProject/theo/obj/Debug/net10.0/ref/theo.dll
