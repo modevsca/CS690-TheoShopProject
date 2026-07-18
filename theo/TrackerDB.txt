@@ -1,8 +1,0 @@
-Customer Phone Number: 566778899
-Hardware: re: Windows
-Issue: attery charging issue and the laptop gets hot
-Defective Part Replacement pre-Approved: pre-Approved: Y
-Calculated Diagnostic Time: 6-07-18 01:39
-Status: Troubleshooting
-ReadPrivacy: acy: N
-#####
