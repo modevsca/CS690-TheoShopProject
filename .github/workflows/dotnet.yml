@@ -26,3 +26,5 @@ jobs:
       run: dotnet build --no-restore
     - name: Test
       run: dotnet test --no-build --verbosity normal
+      - name: Publish
+      run: dotnet publish theo/theo.csporj -c Release -r win-x64 --self-contained true -o publish
