@@ -1,16 +1,8 @@
-Customer Phone Number: 123456789
-Hardware: re: re: re: re: re: re: re: re: re: Windows
-Issue: t booting
-Defective Part Replacement pre-Approved: pre-Approved: pre-Approved: pre-Approved: pre-Approved: pre-Approved: pre-Approved: pre-Approved: pre-Approved: pre-Approved: Y
-Calculated Diagnostic Time: 
-Status: Queue
-ReadPrivacy: acy: Y
-#####
-Customer Phone Number: 5622302
-Hardware: re: Other
-Issue: othing just testing
-Defective Part Replacement pre-Approved: pre-Approved: N
-Calculated Diagnostic Time: 6-07-18 01:15
-Status: Queue
-ReadPrivacy: Y
+Customer Phone Number: 566778899
+Hardware: re: Windows
+Issue: attery charging issue and the laptop gets hot
+Defective Part Replacement pre-Approved: pre-Approved: Y
+Calculated Diagnostic Time: 6-07-18 01:39
+Status: Troubleshooting
+ReadPrivacy: acy: N
 #####
